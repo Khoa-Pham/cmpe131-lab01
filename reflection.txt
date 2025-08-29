@@ -1,1 +1,5 @@
-Based on this lab and my experience with Git branches, I noticed that it is a powerful and safe way for a team of software engineers to collaborate on a single project, as everybody can work on their own branches without affecting the main codebase or interfering with other developers. This will help to prevent conflicts with other features that other developers may develop or real-time crashing of a software product that has already been published. 
+Based on this lab and my experience with Git branches, 
+I noticed that it is a powerful and safe way for a team of software engineers to collaborate on a single project, 
+as everybody can work on their own branches without affecting the main codebase or interfering with other developers. 
+This will help to prevent conflicts with other features that other developers may develop or real-time 
+crashing of a software product that has already been published. 
